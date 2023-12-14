@@ -1,0 +1,8 @@
+setup.py
+januar_package.egg-info/PKG-INFO
+januar_package.egg-info/SOURCES.txt
+januar_package.egg-info/dependency_links.txt
+januar_package.egg-info/top_level.txt
+paket_js_13/__init__.py
+paket_js_13/guess_number.py
+paket_js_13/weight_conversion.py

@@ -1,0 +1,8 @@
+setup.py
+paket_js_13/__init__.py
+paket_js_13/guess_number.py
+paket_js_13/weight_conversion.py
+paket_js_13.egg-info/PKG-INFO
+paket_js_13.egg-info/SOURCES.txt
+paket_js_13.egg-info/dependency_links.txt
+paket_js_13.egg-info/top_level.txt

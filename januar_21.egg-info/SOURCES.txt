@@ -1,0 +1,8 @@
+setup.py
+januar_21/__init__.py
+januar_21/guess_number.py
+januar_21/weight_conversion.py
+januar_21.egg-info/PKG-INFO
+januar_21.egg-info/SOURCES.txt
+januar_21.egg-info/dependency_links.txt
+januar_21.egg-info/top_level.txt
